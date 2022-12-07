@@ -173,3 +173,21 @@ window.draw(isthreeTexture);
 window.draw(littleTankTexture);
 window.draw(sturmTigerTexture):
 window.draw (MausTexture):
+
+
+Texture meighteen;
+meighteen.loadFromFile("Textures/EnemyM-18TankSprite.png");
+Sprite enemymeighteen;
+enemymeighteen.setTexture(meighteen):
+enemymeighteen.setPosition(280,600):
+Texture tthirtyfour;
+thirtyfour.loadFromFile("Textures/EnemyT-34TankSprite.png");
+Sprite enemytthirtyfour;
+enemytthirtyfour.setTexture(tthirtyfour);
+enemytthirtyfour.setPosition(190,0):
+Sprite enemysturmTigerTexture;
+enemysturmTigerTexture.setTexture(sturmTiger);
+enemysturmTigerTexture.setPosition(610,485);
+Sprite enemyisthreeTexture;
+enemyisthreeTexture.setTexture(isthree);
+enemyisthreeTexture.setPosition(640,-125);
