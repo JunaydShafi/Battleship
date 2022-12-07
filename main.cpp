@@ -168,3 +168,8 @@ isthree.loadFromFile("Textures/EnemyTankIS-3Sprtie(1).png");
 Sprite isthreeTexture;
 isthreeTexture,setTexture(isthree);
 isthreeTexture,setPosition(630,25)
+
+window.draw(isthreeTexture);
+window.draw(littleTankTexture);
+window.draw(sturmTigerTexture):
+window.draw (MausTexture):
