@@ -150,34 +150,19 @@ Maus.loadFromFile("Textures/MausTankSprite.png");
 Sprite MausTexture;
 MausTexture. setTexture (Maus) ;
 MausTexture. setPosition(50, 370) :
-133
-134
-135
-136
-137
-138
+
 Texture littleTank;
 littleTank.loadFromFile("Textures/TankSpritez.png");
 Sprite littleTankTexture;
 littleTankTexture.setTexture(littleTank);
 littleTankTexture.setPosition(370,110):
-139
-140
-141
-142
-143
-144
+
 Texture sturmTiger:
 sturmTiger. loadFromFile ("Textures/Tank.png") ;
 Sprite sturmTigerTexture;
 sturmTigerTexture.setTexture(sturmTiger);
 sturmTigerTexture.setPosition(580,99);
-145
-146
-147
-148
-149
-150
+
 Texture isthree:
 isthree.loadFromFile("Textures/EnemyTankIS-3Sprtie(1).png");
 Sprite isthreeTexture;
