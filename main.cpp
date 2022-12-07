@@ -191,3 +191,8 @@ enemysturmTigerTexture.setPosition(610,485);
 Sprite enemyisthreeTexture;
 enemyisthreeTexture.setTexture(isthree);
 enemyisthreeTexture.setPosition(640,-125);
+
+window. draw (enemymeighteen);
+window. draw(enemytthirtyfour);
+window.draw(enemysturmTigerTexture);
+window. draw(enemyisthreeTexture);
