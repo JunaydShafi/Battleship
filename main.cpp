@@ -129,3 +129,16 @@ Sprite enemyaircraftCarrierTexture;
 enemyaircraftCarrierTexture.setTexture(aircraftCarrier);
 enemyaircraftcarrierTexture.setPosition(640,-125):
 // User Tank Sprites
+
+
+
+
+
+
+
+
+
+window.draw(enemyaircraftCarrierTexture);
+window.draw (enemysubmarineTexture);
+window. draw (enemyscoutCruzer);
+window. draw (enemyTestureBattleship);
