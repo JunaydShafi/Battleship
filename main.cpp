@@ -116,40 +116,16 @@ window. draw(TestureBattleship);
 Sprite enemyTestureBattleship;
 enemyTestureBattleship.setTexture(Battleshiptexture):
 enemyTestureBattleship.setPosition(190,490);
+  
 Sprite enemyscoutcruzer;
 enemyscoutCruzer.setTexture(scout):
 enemyscoutCruzer.setPosition(190,0):
+  
 Sprite enemysubmarineTexture;
 enemysubmarineTexture.setTexture(submarine);
 enemysubmarineTexture.setPosition(220,45);
+  
 Sprite enemyaircraftCarrierTexture;
 enemyaircraftCarrierTexture.setTexture(aircraftCarrier);
-enemyaircraftcarrierTexture.setPosition(640,
--125):
-3
-24
-25
-.26
-127
-128
-129
-130
-131
-132
-133
-134
-135
-136
-137
-while (window.isOpen())
-11 create event object
-Event event;
-/Handle player input
-while (window.pollEvent (event) )
-PROBLEMS
-OUTPUT
-TERMINAL
-DEBUG CONSOLE
-Users Tank sprites
-
-}
+enemyaircraftcarrierTexture.setPosition(640,-125):
+// User Tank Sprites
