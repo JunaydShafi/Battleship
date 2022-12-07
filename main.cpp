@@ -105,4 +105,9 @@ Sprite aircraftcarrierTexture;
 aircrafttarrierTexture.setTexture(aircraftcarrier):
 aircraftCarrierTexture.setPosition(530,25);
 
+window. draw(aircraftCarrierTexture):
+window.draw(submarineTexture);
+window.draw(scoutCruzer);
+window. draw(TestureBattleship);
+
 }
